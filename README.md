@@ -1,6 +1,6 @@
 <div class="language-box">
   <select onchange="window.location.href='README.'+this.value+'.md'">
-    <option value="zh-CN">🇨🇳 简体中文</option>
+    <option value="zh-cn">🇨🇳 简体中文</option>
     <option value="es">🇪🇸 Español</option>
     <option value="en">🇺🇸 English</option>
   </select>
